@@ -1,0 +1,3 @@
+[submodule "Kakaocert"]
+	path = Kakaocert
+	url = https://github.com/linkhub-sdk/kakaocert.sdk.php5.git
